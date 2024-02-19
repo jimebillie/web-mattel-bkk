@@ -1,0 +1,3577 @@
+{
+    "t":{
+    "$date":"2024-02-08T05:57:58.096+00:00"
+},
+    "s":"I",
+    "c":"STORAGE",
+    "id":22430,
+    "ctx":"WTCheckpointThread",
+    "msg":"WiredTiger message",
+    "attr":{
+    "message":"[1707371878:96028][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241811, snapshot max: 241811 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+}
+}{
+    "t":{
+        "$date":"2024-02-08T05:58:58.109+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707371938:109567][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241813, snapshot max: 241813 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T05:59:58.120+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707371998:120480][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241815, snapshot max: 241815 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:00:58.130+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372058:130916][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241817, snapshot max: 241817 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:01:58.142+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372118:142951][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241819, snapshot max: 241819 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:02:58.163+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372178:163160][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241821, snapshot max: 241821 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:03:58.176+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372238:176751][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241823, snapshot max: 241823 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:04:58.186+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372298:186598][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241825, snapshot max: 241825 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:05:58.198+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372358:198423][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241827, snapshot max: 241827 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:06:58.207+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372418:207693][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241829, snapshot max: 241829 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:07:58.219+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372478:219879][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241831, snapshot max: 241831 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:08:58.235+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372538:235053][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241833, snapshot max: 241833 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:09:58.248+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372598:248524][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241835, snapshot max: 241835 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:10:58.258+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372658:258969][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241837, snapshot max: 241837 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:11:58.271+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372718:271009][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241839, snapshot max: 241839 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:12:58.281+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372778:281042][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241841, snapshot max: 241841 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:13:58.293+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372838:293834][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241843, snapshot max: 241843 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:14:58.303+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372898:303105][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241845, snapshot max: 241845 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:15:58.321+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707372958:321459][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241847, snapshot max: 241847 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:16:58.333+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373018:332989][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241849, snapshot max: 241849 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:17:58.345+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373078:345858][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241851, snapshot max: 241851 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:18:58.355+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373138:355958][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241853, snapshot max: 241853 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:19:58.369+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373198:369931][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241855, snapshot max: 241855 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:20:58.380+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373258:380958][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241857, snapshot max: 241857 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:21:58.396+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373318:396249][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241859, snapshot max: 241859 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:22:10.802+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"165.22.188.240:45086",
+            "connectionId":42195,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:22:11.445+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42195",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"165.22.188.240:45086",
+            "connectionId":42195,
+            "connectionCount":7
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:22:58.407+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373378:407051][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241861, snapshot max: 241861 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:23:58.418+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373438:418131][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241863, snapshot max: 241863 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:24:58.429+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373498:429948][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241865, snapshot max: 241865 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:25:58.442+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373558:442840][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241867, snapshot max: 241867 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:26:21.777+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"65.49.1.108:26872",
+            "connectionId":42196,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:26:22.073+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42196",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"65.49.1.108:26872",
+            "connectionId":42196,
+            "connectionCount":7
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:26:26.745+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"65.49.1.108:46430",
+            "connectionId":42197,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:26:26.921+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42197",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"65.49.1.108:46430",
+            "connectionId":42197,
+            "connectionCount":7
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:26:58.452+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373618:452895][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241870, snapshot max: 241870 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:27:58.470+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373678:469992][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241873, snapshot max: 241873 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:28:58.489+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373738:489715][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241875, snapshot max: 241875 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:29:58.502+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373798:502591][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241877, snapshot max: 241877 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:30:58.517+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373858:517045][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241879, snapshot max: 241879 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:31:58.528+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373918:528874][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241881, snapshot max: 241881 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:32:58.542+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707373978:542424][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241883, snapshot max: 241883 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:33:58.554+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374038:554146][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241885, snapshot max: 241885 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:34:58.567+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374098:567636][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241887, snapshot max: 241887 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:35:58.591+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374158:591669][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241889, snapshot max: 241889 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:36:58.604+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374218:604322][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241892, snapshot max: 241892 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:37:58.626+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374278:626896][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241895, snapshot max: 241895 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:38:58.639+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374338:639771][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241897, snapshot max: 241897 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:39:58.654+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374398:654363][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241899, snapshot max: 241899 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:40:58.666+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374458:666701][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241901, snapshot max: 241901 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:41:58.677+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374518:677523][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241903, snapshot max: 241903 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:42:58.688+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374578:688001][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241905, snapshot max: 241905 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:43:58.700+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374638:700759][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241907, snapshot max: 241907 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:44:58.710+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374698:709978][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241909, snapshot max: 241909 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:45:58.725+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374758:725047][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241911, snapshot max: 241911 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:53.483+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"91.92.252.109:59104",
+            "connectionId":42198,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:53.484+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42198",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"91.92.252.109:59104",
+            "client":"conn42198",
+            "doc":{
+            "driver":{
+                "name":"PyMongo",
+                    "version":"4.6.1"
+            },
+            "os":{
+                "type":"Linux",
+                    "name":"Linux",
+                    "architecture":"x86_64",
+                    "version":"5.4.0-169-generic"
+            },
+            "platform":"CPython 3.8.10.final.0"
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:53.802+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"91.92.252.109:59106",
+            "connectionId":42199,
+            "connectionCount":9
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:53.803+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42199",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"91.92.252.109:59106",
+            "client":"conn42199",
+            "doc":{
+            "driver":{
+                "name":"PyMongo",
+                    "version":"4.6.1"
+            },
+            "os":{
+                "type":"Linux",
+                    "name":"Linux",
+                    "architecture":"x86_64",
+                    "version":"5.4.0-169-generic"
+            },
+            "platform":"CPython 3.8.10.final.0"
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:53.804+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"91.92.252.109:59122",
+            "connectionId":42200,
+            "connectionCount":10
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:53.805+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42200",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"91.92.252.109:59122",
+            "client":"conn42200",
+            "doc":{
+            "driver":{
+                "name":"PyMongo",
+                    "version":"4.6.1"
+            },
+            "os":{
+                "type":"Linux",
+                    "name":"Linux",
+                    "architecture":"x86_64",
+                    "version":"5.4.0-169-generic"
+            },
+            "platform":"CPython 3.8.10.final.0"
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:55.030+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42199",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"91.92.252.109:59106",
+            "connectionId":42199,
+            "connectionCount":9
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:55.150+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42200",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"91.92.252.109:59122",
+            "connectionId":42200,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:55.151+00:00"
+    },
+    "s":"I",
+        "c":"-",
+        "id":20883,
+        "ctx":"conn42198",
+        "msg":"Interrupted operation as its client disconnected",
+        "attr":{
+        "opId":85718606
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:55.152+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42198",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"91.92.252.109:59104",
+            "connectionId":42198,
+            "connectionCount":7
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:46:58.737+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374818:737302][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241914, snapshot max: 241914 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:47:58.755+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374878:755396][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241917, snapshot max: 241917 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:48:58.768+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374938:768147][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241919, snapshot max: 241919 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:49:58.779+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707374998:779186][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241921, snapshot max: 241921 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:50:58.789+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375058:789178][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241923, snapshot max: 241923 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:51:58.802+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375118:802065][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241925, snapshot max: 241925 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:52:58.813+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375178:813353][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241927, snapshot max: 241927 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:53:58.826+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375238:826839][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241929, snapshot max: 241929 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:54:58.836+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375298:836565][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241931, snapshot max: 241931 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:55:58.848+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375358:848043][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241933, snapshot max: 241933 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:56:58.858+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375418:858030][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241935, snapshot max: 241935 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:57:58.871+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375478:871565][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241937, snapshot max: 241937 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:58:58.882+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375538:882578][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241939, snapshot max: 241939 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T06:59:58.894+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375598:894263][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241941, snapshot max: 241941 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.071+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9460",
+            "connectionId":42201,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.072+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9463",
+            "connectionId":42202,
+            "connectionCount":9
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.083+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42201",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9460",
+            "client":"conn42201",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.083+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42202",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9463",
+            "client":"conn42202",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.138+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42201",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9460",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.138+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42202",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9463",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.211+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58082",
+            "connectionId":42203,
+            "connectionCount":10
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.211+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9465",
+            "connectionId":42204,
+            "connectionCount":11
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.212+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42203",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58082",
+            "client":"conn42203",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.213+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42204",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9465",
+            "client":"conn42204",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.262+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42203",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58082",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:11.269+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42204",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9465",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:15.487+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58084",
+            "connectionId":42205,
+            "connectionCount":12
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:15.488+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9467",
+            "connectionId":42206,
+            "connectionCount":13
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:15.519+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42205",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58084",
+            "client":"conn42205",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:15.525+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42206",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9467",
+            "client":"conn42206",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:15.558+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42205",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58084",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:15.562+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42206",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9467",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:31.925+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42203",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:58082",
+            "connectionId":42203,
+            "connectionCount":11
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:31.925+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42204",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9465",
+            "connectionId":42204,
+            "connectionCount":9
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:31.925+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42205",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:58084",
+            "connectionId":42205,
+            "connectionCount":12
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:31.925+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42202",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9463",
+            "connectionId":42202,
+            "connectionCount":10
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:31.926+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42201",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9460",
+            "connectionId":42201,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:31.926+00:00"
+    },
+    "s":"I",
+        "c":"-",
+        "id":20883,
+        "ctx":"conn42163",
+        "msg":"Interrupted operation as its client disconnected",
+        "attr":{
+        "opId":85729261
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:31.927+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42163",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:7067",
+            "connectionId":42163,
+            "connectionCount":7
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:31.931+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42206",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9467",
+            "connectionId":42206,
+            "connectionCount":6
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:32.013+00:00"
+    },
+    "s":"I",
+        "c":"-",
+        "id":20883,
+        "ctx":"conn42165",
+        "msg":"Interrupted operation as its client disconnected",
+        "attr":{
+        "opId":85729242
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:32.013+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42165",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:49224",
+            "connectionId":42165,
+            "connectionCount":5
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:35.915+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58088",
+            "connectionId":42207,
+            "connectionCount":6
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:35.917+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42207",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58088",
+            "client":"conn42207",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:35.998+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9471",
+            "connectionId":42208,
+            "connectionCount":7
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.171+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42208",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9471",
+            "client":"conn42208",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.206+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42208",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9471",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.438+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58090",
+            "connectionId":42209,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.439+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9473",
+            "connectionId":42210,
+            "connectionCount":9
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.457+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42209",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58090",
+            "client":"conn42209",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.458+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42210",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9473",
+            "client":"conn42210",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.496+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42209",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58090",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.497+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42210",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9473",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.571+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58092",
+            "connectionId":42211,
+            "connectionCount":10
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.571+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9475",
+            "connectionId":42212,
+            "connectionCount":11
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.577+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42211",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58092",
+            "client":"conn42211",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.577+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42212",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9475",
+            "client":"conn42212",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.613+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42211",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58092",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:36.614+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42212",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9475",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:38.486+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58094",
+            "connectionId":42213,
+            "connectionCount":12
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:38.493+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42213",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58094",
+            "client":"conn42213",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:38.575+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9477",
+            "connectionId":42214,
+            "connectionCount":13
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:38.579+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42214",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9477",
+            "client":"conn42214",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:38.635+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42214",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9477",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:39.167+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58096",
+            "connectionId":42215,
+            "connectionCount":14
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:39.168+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9479",
+            "connectionId":42216,
+            "connectionCount":15
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:39.178+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42215",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58096",
+            "client":"conn42215",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:39.182+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42216",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9479",
+            "client":"conn42216",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:39.219+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42215",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58096",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:39.225+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42216",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9479",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:46.518+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9481",
+            "connectionId":42217,
+            "connectionCount":16
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:46.520+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42217",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9481",
+            "client":"conn42217",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:49.127+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9483",
+            "connectionId":42218,
+            "connectionCount":17
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:49.135+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42218",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9483",
+            "client":"conn42218",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:00:58.906+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375658:906058][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241943, snapshot max: 241943 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:01:58.919+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375718:919923][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241951, snapshot max: 241951 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.713+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42218",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9483",
+            "connectionId":42218,
+            "connectionCount":16
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.713+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42215",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:58096",
+            "connectionId":42215,
+            "connectionCount":15
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.714+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42216",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9479",
+            "connectionId":42216,
+            "connectionCount":14
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.714+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42214",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9477",
+            "connectionId":42214,
+            "connectionCount":13
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.714+00:00"
+    },
+    "s":"I",
+        "c":"-",
+        "id":20883,
+        "ctx":"conn42213",
+        "msg":"Interrupted operation as its client disconnected",
+        "attr":{
+        "opId":85731051
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.715+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42213",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:58094",
+            "connectionId":42213,
+            "connectionCount":12
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.747+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42208",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9471",
+            "connectionId":42208,
+            "connectionCount":11
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.748+00:00"
+    },
+    "s":"I",
+        "c":"-",
+        "id":20883,
+        "ctx":"conn42207",
+        "msg":"Interrupted operation as its client disconnected",
+        "attr":{
+        "opId":85731016
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.748+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42207",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:58088",
+            "connectionId":42207,
+            "connectionCount":10
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.748+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42209",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:58090",
+            "connectionId":42209,
+            "connectionCount":9
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.749+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42217",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9481",
+            "connectionId":42217,
+            "connectionCount":7
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.749+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42210",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9473",
+            "connectionId":42210,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.750+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42211",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:58092",
+            "connectionId":42211,
+            "connectionCount":6
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:39.750+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42212",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9475",
+            "connectionId":42212,
+            "connectionCount":5
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:02:58.935+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375778:935903][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241954, snapshot max: 241954 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:03:58.951+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375838:951079][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241956, snapshot max: 241956 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.065+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58136",
+            "connectionId":42219,
+            "connectionCount":6
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.068+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42219",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58136",
+            "client":"conn42219",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.141+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9513",
+            "connectionId":42220,
+            "connectionCount":7
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.142+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42220",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9513",
+            "client":"conn42220",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.191+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42220",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9513",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.407+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58138",
+            "connectionId":42221,
+            "connectionCount":8
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.410+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9515",
+            "connectionId":42222,
+            "connectionCount":9
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.478+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42221",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58138",
+            "client":"conn42221",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.481+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42222",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9515",
+            "client":"conn42222",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.514+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42221",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58138",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.518+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42222",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9515",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.589+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9517",
+            "connectionId":42223,
+            "connectionCount":10
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.590+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58140",
+            "connectionId":42224,
+            "connectionCount":11
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.590+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42223",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9517",
+            "client":"conn42223",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.591+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42224",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58140",
+            "client":"conn42224",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.627+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42223",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9517",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.629+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42224",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58140",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.818+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58142",
+            "connectionId":42225,
+            "connectionCount":12
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.821+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42225",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58142",
+            "client":"conn42225",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:06.859+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42225",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58142",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:07.496+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9519",
+            "connectionId":42226,
+            "connectionCount":13
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:07.499+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42226",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9519",
+            "client":"conn42226",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:07.580+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58144",
+            "connectionId":42227,
+            "connectionCount":14
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:07.584+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42227",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58144",
+            "client":"conn42227",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:07.639+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42227",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58144",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:08.035+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58146",
+            "connectionId":42228,
+            "connectionCount":15
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:08.036+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9521",
+            "connectionId":42229,
+            "connectionCount":16
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:08.037+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42228",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58146",
+            "client":"conn42228",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:08.044+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42229",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9521",
+            "client":"conn42229",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:08.075+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42228",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:58146",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:08.082+00:00"
+    },
+    "s":"I",
+        "c":"ACCESS",
+        "id":20250,
+        "ctx":"conn42229",
+        "msg":"Authentication succeeded",
+        "attr":{
+        "mechanism":"SCRAM-SHA-256",
+            "speculative":true,
+            "principalName":"propermu-uat",
+            "authenticationDatabase":"admin",
+            "remote":"110.169.128.0:9521",
+            "extraInfo":{
+
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:16.656+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:9525",
+            "connectionId":42230,
+            "connectionCount":17
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:16.661+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42230",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:9525",
+            "client":"conn42230",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:18.087+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"110.169.128.0:58150",
+            "connectionId":42231,
+            "connectionCount":18
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:18.092+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42231",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"110.169.128.0:58150",
+            "client":"conn42231",
+            "doc":{
+            "application":{
+                "name":"MongoDB Compass"
+            },
+            "driver":{
+                "name":"nodejs",
+                    "version":"6.3.0"
+            },
+            "platform":"Node.js v18.15.0, LE",
+                "os":{
+                "name":"darwin",
+                    "architecture":"x64",
+                    "version":"23.2.0",
+                    "type":"Darwin"
+            }
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:04:58.961+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375898:961759][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241958, snapshot max: 241958 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:05:58.974+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707375958:973991][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241960, snapshot max: 241960 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:06:58.984+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376018:984455][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241973, snapshot max: 241973 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:07:59.005+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376079:5039][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241976, snapshot max: 241976 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:08:59.016+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376139:16632][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241978, snapshot max: 241978 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:09:22.631+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42220",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"110.169.128.0:9513",
+            "connectionId":42220,
+            "connectionCount":17
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:09:59.028+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376199:28806][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241980, snapshot max: 241980 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:10:59.040+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376259:40444][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241982, snapshot max: 241982 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:11:59.055+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376319:55013][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241984, snapshot max: 241984 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:16.688+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"35.187.98.121:47620",
+            "connectionId":42232,
+            "connectionCount":18
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:16.688+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42232",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"35.187.98.121:47620",
+            "client":"conn42232",
+            "doc":{
+            "driver":{
+                "name":"PyMongo",
+                    "version":"3.13.0"
+            },
+            "os":{
+                "type":"Linux",
+                    "name":"Linux",
+                    "architecture":"x86_64",
+                    "version":"5.15.133+"
+            },
+            "platform":"CPython 3.9.17.final.0"
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:17.141+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"35.187.98.121:47644",
+            "connectionId":42233,
+            "connectionCount":19
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:17.141+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42233",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"35.187.98.121:47644",
+            "client":"conn42233",
+            "doc":{
+            "driver":{
+                "name":"PyMongo",
+                    "version":"3.13.0"
+            },
+            "os":{
+                "type":"Linux",
+                    "name":"Linux",
+                    "architecture":"x86_64",
+                    "version":"5.15.133+"
+            },
+            "platform":"CPython 3.9.17.final.0"
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:17.142+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22943,
+        "ctx":"listener",
+        "msg":"Connection accepted",
+        "attr":{
+        "remote":"35.187.98.121:47632",
+            "connectionId":42234,
+            "connectionCount":20
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:17.143+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":51800,
+        "ctx":"conn42234",
+        "msg":"client metadata",
+        "attr":{
+        "remote":"35.187.98.121:47632",
+            "client":"conn42234",
+            "doc":{
+            "driver":{
+                "name":"PyMongo",
+                    "version":"3.13.0"
+            },
+            "os":{
+                "type":"Linux",
+                    "name":"Linux",
+                    "architecture":"x86_64",
+                    "version":"5.15.133+"
+            },
+            "platform":"CPython 3.9.17.final.0"
+        }
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:18.051+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42233",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"35.187.98.121:47644",
+            "connectionId":42233,
+            "connectionCount":19
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:18.052+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42234",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"35.187.98.121:47632",
+            "connectionId":42234,
+            "connectionCount":18
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:18.419+00:00"
+    },
+    "s":"I",
+        "c":"-",
+        "id":20883,
+        "ctx":"conn42232",
+        "msg":"Interrupted operation as its client disconnected",
+        "attr":{
+        "opId":85738711
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:18.419+00:00"
+    },
+    "s":"I",
+        "c":"NETWORK",
+        "id":22944,
+        "ctx":"conn42232",
+        "msg":"Connection ended",
+        "attr":{
+        "remote":"35.187.98.121:47620",
+            "connectionId":42232,
+            "connectionCount":17
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:12:59.064+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376379:64745][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241986, snapshot max: 241986 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:13:59.076+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376439:76761][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241988, snapshot max: 241988 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:14:59.086+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376499:86268][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241990, snapshot max: 241990 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:15:59.098+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376559:98224][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241992, snapshot max: 241992 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:16:59.109+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376619:109886][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241995, snapshot max: 241995 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:17:59.126+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376679:126379][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 241998, snapshot max: 241998 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:18:59.140+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376739:140137][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 242000, snapshot max: 242000 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:19:59.152+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376799:152033][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 242002, snapshot max: 242002 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:20:59.161+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376859:161950][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 242004, snapshot max: 242004 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:21:59.173+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376919:173616][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 242006, snapshot max: 242006 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}{
+    "t":{
+        "$date":"2024-02-08T07:22:59.184+00:00"
+    },
+    "s":"I",
+        "c":"STORAGE",
+        "id":22430,
+        "ctx":"WTCheckpointThread",
+        "msg":"WiredTiger message",
+        "attr":{
+        "message":"[1707376979:184104][365729:0x7fdffb0f0700], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 242008, snapshot max: 242008 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 31555"
+    }
+}
