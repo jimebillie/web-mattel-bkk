@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" style="width: 30px; height: 30px"
+        href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mattel-brand.svg/598px-Mattel-brand.svg.png">
+    <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+    <title>February</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: sans-serif;
+        }
+
+        nav {
+            background-color: #6b1a18;
+            display: flex;
+            justify-content: center;
+        }
+
+        .container {
+            width: 90%;
+            padding: 5px 0;
+        }
+
+        .content {
+            background-color: #a49594;
+            display: flex;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .wrapContent {
+            margin: 20px 0 0 0;
+            padding: 30px;
+            border-radius: 10px;
+        }
+
+        #my-video {
+            width: 100%;
+            height: 70vh;
+            border-radius: 0 0 10px 10px;
+        }
+
+        @media (max-width: 500px) {
+            #my-video {
+                width: 100%;
+                height: 30vh
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <div class="content">
+        <div class="container">
+            <div class="wrapContent">
+                <style>
+                    #_t-Head {
+                        font-size: 2rem;
+                    }
+
+                    @media screen and (max-width: 500px) {
+                        #_t-Head {
+                            font-size: 1rem;
+                        }
+
+                    }
+                </style>
+                <div id="_t-Head"
+                    style="background-color: #6b1a18; padding: 10px;color: #ffe4e4;display: flex;justify-content: center;border-radius: 10px 10px 0 0">
+                    🎬 การคีย์ลาวันหยุดพักผ่อนประจำปี 2567-2568
+                </div>
+                <video id="my-video" class="video-js" controls preload="auto" poster="poster/คีย์ลาออนไลน์.png">
+                    <source src="videos/Video Leave Online Guid.mp4" type="video/mp4" />
+                    <p class="vjs-no-js">
+                        To view this video please enable JavaScript, and consider upgrading to a
+                        web browser that
+                        <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                    </p>
+                </video>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+</body>
+
+</html>
